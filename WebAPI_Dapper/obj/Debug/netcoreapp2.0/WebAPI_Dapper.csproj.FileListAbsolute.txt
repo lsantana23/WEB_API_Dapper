@@ -1,0 +1,10 @@
+C:\Users\lsantana\source\repos\WebAPI_Dapper\WebAPI_Dapper\bin\Debug\netcoreapp2.0\WebAPI_Dapper.deps.json
+C:\Users\lsantana\source\repos\WebAPI_Dapper\WebAPI_Dapper\bin\Debug\netcoreapp2.0\WebAPI_Dapper.runtimeconfig.json
+C:\Users\lsantana\source\repos\WebAPI_Dapper\WebAPI_Dapper\bin\Debug\netcoreapp2.0\WebAPI_Dapper.runtimeconfig.dev.json
+C:\Users\lsantana\source\repos\WebAPI_Dapper\WebAPI_Dapper\bin\Debug\netcoreapp2.0\WebAPI_Dapper.dll
+C:\Users\lsantana\source\repos\WebAPI_Dapper\WebAPI_Dapper\bin\Debug\netcoreapp2.0\WebAPI_Dapper.pdb
+C:\Users\lsantana\source\repos\WebAPI_Dapper\WebAPI_Dapper\obj\Debug\netcoreapp2.0\WebAPI_Dapper.csproj.CoreCompileInputs.cache
+C:\Users\lsantana\source\repos\WebAPI_Dapper\WebAPI_Dapper\obj\Debug\netcoreapp2.0\WebAPI_Dapper.AssemblyInfoInputs.cache
+C:\Users\lsantana\source\repos\WebAPI_Dapper\WebAPI_Dapper\obj\Debug\netcoreapp2.0\WebAPI_Dapper.AssemblyInfo.cs
+C:\Users\lsantana\source\repos\WebAPI_Dapper\WebAPI_Dapper\obj\Debug\netcoreapp2.0\WebAPI_Dapper.dll
+C:\Users\lsantana\source\repos\WebAPI_Dapper\WebAPI_Dapper\obj\Debug\netcoreapp2.0\WebAPI_Dapper.pdb
