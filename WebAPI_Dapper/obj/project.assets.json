@@ -12581,11 +12581,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\lsantana\\source\\repos\\WebAPI_Dapper\\WebAPI_Dapper\\WebAPI_Dapper.csproj",
+      "projectUniqueName": "C:\\Users\\lsantana\\Downloads\\prj\\API\\WebAPI_Dapper\\WebAPI_Dapper\\WebAPI_Dapper.csproj",
       "projectName": "WebAPI_Dapper",
-      "projectPath": "C:\\Users\\lsantana\\source\\repos\\WebAPI_Dapper\\WebAPI_Dapper\\WebAPI_Dapper.csproj",
+      "projectPath": "C:\\Users\\lsantana\\Downloads\\prj\\API\\WebAPI_Dapper\\WebAPI_Dapper\\WebAPI_Dapper.csproj",
       "packagesPath": "C:\\Users\\lsantana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lsantana\\source\\repos\\WebAPI_Dapper\\WebAPI_Dapper\\obj\\",
+      "outputPath": "C:\\Users\\lsantana\\Downloads\\prj\\API\\WebAPI_Dapper\\WebAPI_Dapper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -12603,8 +12603,7 @@
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "\\\\braganca.orizon.local\\Orizon.Nuget.Server\\Packages": {},
         "http://braganca.orizon.local/Orizon.Nuget.Server/nuget": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://www.nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
